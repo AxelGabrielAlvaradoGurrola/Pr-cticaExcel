@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package G4S21SCO4S21;
+package G4S21AGAGEXCEL;
 
 import java.io.FileOutputStream;
 import java.io.OutputStream;
@@ -15,7 +15,7 @@ import org.apache.poi.ss.usermodel.Workbook;
  *
  * @author 
  */
-public class G4S21JDCGexel {
+public class G4S21AGAGEXCEL {
 
     /**
      * @param args the command line arguments
